@@ -30,15 +30,15 @@ cd Q-AIFL
 <br>
 
 Open the notebook<br>
-jupyter notebook
+jupyter notebook<br>
 Run Experimental Setup.ipynb and follow the step-by-step logic to reproduce or modify the experiments.<br>
 
 File Structure<br>
-quantum-ml-experiments/
+quantum-ml-experiments/<br>
 │
-├── Experimental Setup.ipynb   # Main notebook with all experiments
-├── requirements.txt           # Python dependencies
-└── README.md                  # Project overview and instructions
+├── Experimental Setup.ipynb   # Main notebook with all experiments<br>
+├── requirements.txt           # Python dependencies<br>
+└── README.md                  # Project overview and instructions<br>
 
 Notes<br>
 The project includes components compatible with PennyLane for quantum computing simulations. Make sure your environment supports this if you plan to extend the notebook with quantum circuits.<br>
