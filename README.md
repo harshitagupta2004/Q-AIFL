@@ -35,7 +35,7 @@ Run Experimental Setup.ipynb and follow the step-by-step logic to reproduce or m
 
 File Structure<br>
 quantum-ml-experiments/<br>
-│
+│<br>
 ├── Experimental Setup.ipynb   # Main notebook with all experiments<br>
 ├── requirements.txt           # Python dependencies<br>
 └── README.md                  # Project overview and instructions<br>
