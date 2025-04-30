@@ -25,10 +25,9 @@ pip install -r requirements.txt
 Or install manually:
 pip install numpy matplotlib scikit-learn pennylane
 
-Getting Started
-Clone the repository
-git clone https://github.com/yourusername/quantum-ml-experiments.git
-cd quantum-ml-experiments
+Clone the repositor: <br>
+git clone https://github.com/harshitagupta2004/Q-AIFL.git
+cd Q-AIFL
 
 
 Open the notebook
