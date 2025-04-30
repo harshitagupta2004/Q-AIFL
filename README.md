@@ -4,48 +4,47 @@
 
 
 The goal of this project is to set up a flexible and modular environment for running machine learning experiments, with a focus on potential quantum-classical hybrid models. Using Python libraries like scikit-learn, numpy, and matplotlib, alongside PennyLane for quantum computation, the notebook allows users to:
-Load and preprocess datasets
-Apply classical and quantum-based algorithms
-Train and validate models
-Visualize results and compare performances
+Load and preprocess datasets<br>
+Apply classical and quantum-based algorithms<br>
+Train and validate models<br>
+Visualize results and compare performances<br>
 
-This project is ideal for researchers, students, or developers interested in experimenting with quantum machine learning or building hybrid ML pipelines.
+This project is ideal for researchers, students, or developers interested in experimenting with quantum machine learning or building hybrid ML pipelines.<br>
 
-Key Features:
-Modular and reusable code blocks for quick experimentation
-Integration-ready structure for hybrid quantum-classical ML models
-Performance tracking and result visualization
-Built with accessibility and reproducibility in mind
+Key Features:<br>
+Modular and reusable code blocks for quick experimentation<br>
+Integration-ready structure for hybrid quantum-classical ML models<br>
+Performance tracking and result visualization<br>
+Built with accessibility and reproducibility in mind<br>
 
-Setup Instructions:Requirements
-Mak
-sure you have Python 3.8+ installed. Install the necessary packages using:
-pip install -r requirements.txt
+Setup Instructions:<br>
+Make sure you have Python 3.8+ installed. Install the necessary packages using:<br>
+pip install -r requirements.txt<br>
 
-Or install manually:
-pip install numpy matplotlib scikit-learn pennylane
+Or install manually:<br>
+pip install numpy matplotlib scikit-learn pennylane<br>
 
-Clone the repositor: <br>
-git clone https://github.com/harshitagupta2004/Q-AIFL.git
+Clone the repository: <br>
+git clone https://github.com/harshitagupta2004/Q-AIFL.git <br>
 cd Q-AIFL
+<br>
 
-
-Open the notebook
+Open the notebook<br>
 jupyter notebook
-Run Experimental Setup.ipynb and follow the step-by-step logic to reproduce or modify the experiments.
+Run Experimental Setup.ipynb and follow the step-by-step logic to reproduce or modify the experiments.<br>
 
-File Structure
+File Structure<br>
 quantum-ml-experiments/
 │
 ├── Experimental Setup.ipynb   # Main notebook with all experiments
 ├── requirements.txt           # Python dependencies
 └── README.md                  # Project overview and instructions
 
-Notes
-The project includes components compatible with PennyLane for quantum computing simulations. Make sure your environment supports this if you plan to extend the notebook with quantum circuits.
+Notes<br>
+The project includes components compatible with PennyLane for quantum computing simulations. Make sure your environment supports this if you plan to extend the notebook with quantum circuits.<br>
 
-Current focus is on creating a clean, adaptable baseline for experimentation.
+Current focus is on creating a clean, adaptable baseline for experimentation.<br>
 
-License
+License<br>
 This project is licensed under the MIT License. You are free to use, distribute, and modify it with attribution.
 
